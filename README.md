@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AliyaSmnAly
-- 👀 I’m interested in Web development
-- 🌱 I’m currently studying Software engineering at UET, Taxila,Pakistan.
-  @aliya-smn-aly<on instagram>
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm just a girl.
+-   I’m @AliyaSmnAly
+- I’m interested in Web development
+- Passionate about UI/UX Design
+-  I’m currently studying Software engineering at UET, Taxila,Pakistan
+-  Pronouns: she/her
+-   Based in Pakistan
 
 
